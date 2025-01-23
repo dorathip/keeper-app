@@ -1,6 +1,6 @@
-# 1. Clone the Repository: First, clone the repository from GitHub:
+# 1. Clone the Repository:
 
-### `git clone https://github.com/srazztech/srazzy-cars.git`
+### `git clone https://github.com/dorathip/keeper-app.git`
 
 ### `cd floder`
 
