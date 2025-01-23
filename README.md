@@ -2,7 +2,7 @@
 
 ### `git clone https://github.com/dorathip/keeper-app.git`
 
-### `cd floder`
+### `cd keeper-app`
 
 # 2. Install Dependencies: Use a package manager like npm to install the dependencies. This will recreate the node_modules folder based on the package.json and package-lock.json files.
 
